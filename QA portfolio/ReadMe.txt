@@ -1,1 +1,0 @@
-Compilación de casos de prueba,planes de prueba (test plans), ejecución de pruebas (test execution),reportes de bugs (bug reports) , automatización,pruebas manuales 
